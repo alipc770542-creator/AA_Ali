@@ -1,0 +1,19 @@
+{
+  "id": "/",
+  "name": "DREAM MOVIE HUB",
+  "short_name": "DREAM HUB",
+  "description": "2D Animation کا سب سے بڑا سٹوڈیو - 2D کارٹون کریکٹر بنائیں، لائبریری سے بیک گراؤنڈ چنیں، اور AI اینیمیشن سین بنائیں",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#F3E5F5",
+  "theme_color": "#673AB7",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

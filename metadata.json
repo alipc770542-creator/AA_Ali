@@ -1,0 +1,6 @@
+{
+  "name": "DREAM MOVIE HUB",
+  "description": "AI 2D Animation & Viral Cartoon Video Studio. Create custom characters with Face Lock, explore ready-made AI backgrounds, animate scenes, and export viral video prompts for TikTok, Reels, and Shorts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
